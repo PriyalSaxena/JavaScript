@@ -1,4 +1,2 @@
-<script>
-  lrt js = "amazing";
-  if (js === "amazing")
-</script>
+console.log("Jonas");
+console.log(23);
